@@ -8,17 +8,24 @@ namespace Leeson_03
     {
         static void Main(string[] args)
         {
-            /*StudentMarks(); // Demo
+            StudentMarks(); // Demo
+            Console.WriteLine();
             SortedDict(); // Demo
+            Console.WriteLine();
 
             // WORK IN CLASS
             MenuList(); // Task 1
+            Console.WriteLine();
             Occurences(); // Task 2
+            Console.WriteLine();
             Removing(); // Task 3
+            Console.WriteLine();
 
             // HOMEWORKS
-            Minesweeper(); // 1 */
+            Minesweeper(); // 1
+            Console.WriteLine();
             Phonebook(); // 2
+            Console.WriteLine();
 
             Console.ReadKey();
         }
